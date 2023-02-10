@@ -1,0 +1,22 @@
+{
+  "name": "linaria-rollup",
+  "version": "1.0.0",
+  "main": "index.jsx",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.20.12",
+    "@babel/preset-env": "^7.20.2",
+    "@babel/preset-react": "^7.18.6",
+    "@linaria/rollup": "^4.3.4",
+    "@rollup/plugin-babel": "^6.0.3",
+    "@rollup/plugin-node-resolve": "^15.0.1",
+    "react": "^18.2.0",
+    "rollup": "^3.14.0",
+    "rollup-plugin-css-only": "^4.3.0"
+  },
+  "dependencies": {
+    "@linaria/babel-preset": "^4.4.1",
+    "@linaria/core": "^4.2.6",
+    "@linaria/react": "^4.3.4"
+  }
+}
